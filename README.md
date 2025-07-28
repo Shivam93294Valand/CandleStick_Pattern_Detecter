@@ -1,7 +1,12 @@
-# Stock Market CandleStick Pattern Detecter
+# Stock Market Data Repository
 
 ## Overview
 This directory contains historical stock market data for technical analysis and pattern recognition. The data is organized by company and date, with minute-by-minute price information that can be analyzed using various technical indicators and candlestick patterns.
+
+**This project was created during the MarketMaya Hackathon by Multiicon at Darshan University, a 5-hour hackathon event.**
+
+![Candlestick Patterns](../assets/patterns.png)
+*Supported candlestick patterns in the application*
 
 ## Data Structure
 
@@ -52,3 +57,13 @@ The application loads and processes this data using pandas for data manipulation
 
 ## Note
 The data in this repository appears to be future-dated (2025), suggesting it may be simulated or test data rather than actual historical market data.
+
+## Application Features
+The Hack_Maya application (Candlestick Pattern Detector) provides the following features:
+
+1. **Pattern Visualization** - Visual representation of different candlestick patterns
+2. **Pattern Detection** - Automatic detection of patterns in historical data
+3. **Filtering Options** - Filter by script, pattern type, and timeframe
+4. **Pattern Occurrences Table** - Detailed table showing when patterns occurred with price data
+5. **Interactive Candlestick Chart** - Visual chart highlighting detected patterns
+6. **Light/Dark Mode** - User interface theme options
