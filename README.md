@@ -1,1 +1,1 @@
-# Candle_Pattern_Detecter
+# CandleStick_Pattern_Detecter
