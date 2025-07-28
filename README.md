@@ -5,9 +5,6 @@ This directory contains historical stock market data for technical analysis and 
 
 **This project was created during the MarketMaya Hackathon by Multiicon at Darshan University, a 5-hour hackathon event.**
 
-![Candlestick Patterns](../assets/patterns.png)
-*Supported candlestick patterns in the application*
-
 ## Data Structure
 
 ### Directory Organization
