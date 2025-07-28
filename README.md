@@ -1,4 +1,4 @@
-# Stock Market Data Repository
+# Stock Market CandleStick Pattern Detecter
 
 ## Overview
 This directory contains historical stock market data for technical analysis and pattern recognition. The data is organized by company and date, with minute-by-minute price information that can be analyzed using various technical indicators and candlestick patterns.
